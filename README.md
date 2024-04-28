@@ -1,10 +1,10 @@
-# 💫About Me :
+## 💫About Me :
 I am a passionate individual seeking opportunities as a beginner Backend Developer. I am looking for a dynamic work environment that fosters learning and development, where I can contribute and grow as part of the team. I am committed and dedicated to making a positive impact and adding value to the company's projects.
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/trieuetam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trieu-phan-daklak/) 
+### 🌐Socials Media
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trieuetam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieu-phan-daklak/) 
 
-# 💻Tech Stack
+## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
